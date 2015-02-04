@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PATOLIN-LENOVO</Machine>
+    <WindowsUser>Patricio</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>67E047E851AFE2EE4A65A0807767CE2107F4D37F8E0D7EA0976E69DB0036F1E0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>29f09649-b469-4645-8629-46183057047e_1.0.0.0_neutral__wqsq3z9n3vwv6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>29f09649-b469-4645-8629-46183057047e_wqsq3z9n3vwv6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>29f09649-b469-4645-8629-46183057047e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Patricio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T22:18:28.482</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\mono-musica.exe">
+      <PackagePath>mono-musica.exe</PackagePath>
+      <Modified>2015-02-04T22:22:52.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\mono-musica.pdb">
+      <PackagePath>mono-musica.pdb</PackagePath>
+      <Modified>2015-02-04T22:22:52.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+      <Modified>2015-02-01T10:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.xml">
+      <PackagePath>MonoGame.Framework.xml</PackagePath>
+      <Modified>2015-02-01T10:32:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+      <Modified>2015-01-20T00:23:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.xml">
+      <PackagePath>SharpDX.XInput.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.xml">
+      <PackagePath>SharpDX.Direct2D1.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.xml">
+      <PackagePath>SharpDX.MediaFoundation.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.xml">
+      <PackagePath>SharpDX.XAudio2.xml</PackagePath>
+      <Modified>2015-01-20T00:23:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\bg1.jpg">
+      <PackagePath>Assets\bg1.jpg</PackagePath>
+      <Modified>2015-02-02T21:04:48.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\sw_off.jpg">
+      <PackagePath>Assets\sw_off.jpg</PackagePath>
+      <Modified>2015-02-04T21:37:53.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\sw_on.jpg">
+      <PackagePath>Assets\sw_on.jpg</PackagePath>
+      <Modified>2015-02-04T21:37:43.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\wSin.jpg">
+      <PackagePath>Assets\wSin.jpg</PackagePath>
+      <Modified>2015-02-04T22:01:15.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\wSq.jpg">
+      <PackagePath>Assets\wSq.jpg</PackagePath>
+      <Modified>2015-02-04T22:00:57.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\wTri.jpg">
+      <PackagePath>Assets\wTri.jpg</PackagePath>
+      <Modified>2015-02-04T22:01:28.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\knob.png">
+      <PackagePath>Assets\knob.png</PackagePath>
+      <Modified>2015-02-03T20:17:20.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T17:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T17:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T17:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-19T17:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-02-02T20:57:23.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2015-01-19T17:23:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\GamePage.xaml">
+      <PackagePath>GamePage.xaml</PackagePath>
+      <Modified>2015-02-04T22:10:17.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Patricio\documents\visual studio 2012\Projects\mono-musica\mono-musica\bin\Windows8\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-04T22:10:21.207</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
